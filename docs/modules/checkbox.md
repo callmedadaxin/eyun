@@ -20,7 +20,7 @@
 ```
 
 ## 预览
-![](../img/checkbox.png)
+![](./img/checkbox.png)
 
 ## props
 

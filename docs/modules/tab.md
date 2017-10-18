@@ -13,7 +13,7 @@
 ```
 
 ## 预览
-![](../img/tab.png)
+![](./img/tab.png)
 
 ## props
 

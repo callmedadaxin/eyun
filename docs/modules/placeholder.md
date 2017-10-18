@@ -10,7 +10,7 @@
 ## 预览
 加载图片前的样式
 
-![](../img/placeholder.png)
+![](./img/placeholder.png)
 
 ## props
 

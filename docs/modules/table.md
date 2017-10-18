@@ -4,7 +4,7 @@
 
 ## 基本使用
 
-![](../img/table.png)
+![](./img/table.png)
 
 ``` html
 <template>
@@ -51,7 +51,7 @@ export default {
 ```
 
 ### 带选项的table
-![](../img/table-select.png)
+![](./img/table-select.png)
 
 增加type="select"
 

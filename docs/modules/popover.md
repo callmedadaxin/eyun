@@ -15,7 +15,7 @@
 </x-popover>
 ```
 
-![](../img/popover-base.png)
+![](./img/popover-base.png)
 
 ### 不同位置
 posistion 控制不同显示位置

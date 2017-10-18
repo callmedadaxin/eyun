@@ -19,7 +19,7 @@
 ```
 
 ## 预览
-![](../img/select-group.png)
+![](./img/select-group.png)
 
 ## props
 ### selectGroup

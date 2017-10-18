@@ -14,7 +14,7 @@
 ```
 
 ## 预览
-![](../img/dropdown.png)
+![](./img/dropdown.png)
 
 ## props
 

@@ -9,7 +9,7 @@
 ```
 
 ## 预览
-![](../img/progress.png)
+![](./img/progress.png)
 
 ## props
 

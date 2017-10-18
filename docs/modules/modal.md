@@ -11,7 +11,7 @@
 </x-modal>
 ```
 
-![](../img/modal.png)
+![](./img/modal.png)
 
 ### 定制底部按钮
 ```
@@ -24,7 +24,7 @@
 </x-modal>
 ```
 
-![](../img/modal-footer.png)
+![](./img/modal-footer.png)
 
 ## props
 
